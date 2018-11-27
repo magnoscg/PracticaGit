@@ -3,8 +3,7 @@ al commit anterior y el modificador hard para modificar mi working copy al
 estado del commit anterior.
 
 Paso 12: Usé el comando `git reflog` para ver el hash del commit inalcanzable 
-que deshice y usé `git reset --hard`
-+ *hash del commit* para volver al commit y
+que deshice y usé `git reset --hard` + *hash del commit* para volver al commit y
 modificar mi working copy tal cual estaba en ese commit.
 
 Paso 13: No se puede hacer un merge a **master** porque ya tiene la rama 
